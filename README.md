@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ritika Mishra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -16,11 +15,11 @@
 
 - 📫 How to reach me **ritikamis8081@gmail.com**
 
-
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb" height="30" width="40" /></a>
 <a href="https://fb.com/ritika mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritika mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/ritikamishra8081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikamishra8081" height="30" width="40" /></a>
 </p>
@@ -33,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritika8081&show_icons=true&locale=en" alt="ritika8081" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika8081&" alt="ritika8081" /></p>
-
