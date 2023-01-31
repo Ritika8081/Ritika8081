@@ -1,4 +1,4 @@
-![logo](https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-technology-cool-background-code-image_17634.jpg)
+
 <h1 align="center">Hi 👋, I'm Ritika Mishra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
