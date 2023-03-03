@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritika Mishra</h1>
+<h1 align="center">Hi 👋 I'm Ritika Mishra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
