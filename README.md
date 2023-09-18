@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika8081&label=Profile%20views&color=0e75b6&style=flat" alt="ritika8081" /> </p>
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **full stack development and dsa problem solving**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb](https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb)
 
