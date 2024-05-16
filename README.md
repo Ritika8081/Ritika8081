@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **full stack development and dsa problem solving**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb](https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ritika8081)
 
 - 📝 I am more active on [https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb](https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb)
 
