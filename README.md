@@ -10,7 +10,7 @@
 - 🧠 Specializing in **ECG, EEG, EMG, and EOG** data acquisition
 - 🖥️ Exploring MERN Stack, Next.js, Tailwind CSS | Bridging Hardware & Software | Passionate About Biopotential Signals (ECG, EEG, EMG, EOG)
 - 👨‍💻 My projects are available on **[GitHub](https://github.com/Ritika8081)**
-- 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/mwlite/in/ritika-mishra-a965251bb)**
+- 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ritika-mishra-a965251bb/)**
 - 💬 Ask me about **Web Development, Neuroscience, and DSA**
 - 📫 Reach me at **ritikamis8081@gmail.com**
 - ⚡ Fun fact: **I think I’m funny 😆**
