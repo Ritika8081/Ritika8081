@@ -50,10 +50,10 @@ React.js, Next.js, Node.js, Express.js, TensorFlow.js
 MongoDB, SQL, IndexedDB  
 
 #### ⚙️ Real-Time & Browser Systems  
-Web Serial API, Web Workers, WebGL, Canvas, PWA  
+Web Serial API, Web Workers, WebGL, Canvas
 
 #### 🛠️ Tools  
-Git, GitHub, VS Code, Docker (basic), Windows  
+Git, GitHub, VS Code, Docker (basic)
 
 ---
 
