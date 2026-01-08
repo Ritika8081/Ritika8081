@@ -79,15 +79,4 @@ Git, GitHub, VS Code, Docker (basic)
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika8081&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritika8081&show_icons=true&rank_icon=github)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritika8081)
-
-
----
-
 💡 *Curious by nature. Driven by impact. Always learning.* 🚀
